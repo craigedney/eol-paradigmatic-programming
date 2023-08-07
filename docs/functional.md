@@ -1,4 +1,4 @@
-**Functional Programming in TypeScript**
+# Functional Programming
 
 1. **Pure Functions**: Functions always produce the same result for the same input and have no side-effects.
 

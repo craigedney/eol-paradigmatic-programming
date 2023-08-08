@@ -68,3 +68,5 @@ It's essential to understand that while this demonstrates a class hierarchy, it'
 ## Other terms
 - Mono-rooted Hierarchical Structure
 - Single-rooted Hierarchical Modular Structure
+-  hierarchical and evolutionary
+-  "Single-Rooted Evolutionary Programming"??

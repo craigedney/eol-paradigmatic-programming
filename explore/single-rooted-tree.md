@@ -63,3 +63,8 @@ LivingBeing
 ```
 
 It's essential to understand that while this demonstrates a class hierarchy, it's not necessarily a depiction of a "Single-rooted Tree programming paradigm" since such a paradigm isn't a standard or widely recognized term in the field of computer science or software engineering.
+
+
+## Other terms
+- Mono-rooted Hierarchical Structure
+- Single-rooted Hierarchical Modular Structure

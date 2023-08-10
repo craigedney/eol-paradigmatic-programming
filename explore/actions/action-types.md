@@ -26,6 +26,8 @@ Derived from [schema.org](https://schema.org/Action).
 
 These definitions aim to provide clarity on the essence of each action, using precise and concise wording.
 
+> A specific activity or deed where a primary entity (direct agent) takes a primary role in initiating or executing an activity, and there may be secondary entities (indirect participants) that are either involved in, affected by, or present during this activity, all targeting or affecting another primary entity (direct object) which directly receives or experiences the result of that activity.
+
 ---
 
 1. **Achieve**  
